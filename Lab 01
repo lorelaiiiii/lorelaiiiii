@@ -1,0 +1,55 @@
+## Lab 01
+
+- Name: Lorelai Houser
+- Email: houser.46@wright.edu
+
+## Part 1 - GitHub Profile
+
+1. [lorelaiiiii's GitHub Profile](FIXTHISURL-https://github.com/lorelaiiiii)
+
+## Part 2 - Research
+
+| Windows | Linux / Mac | Action |
+| ---     | ---         | ---    |
+| help    | man         |   opens the manual!     |
+| Get-Location | pwd    |   shows the location you're currently at     |
+| Get-ChildItem | ls    |   lists everything (not hidden) in the current directory you're in     |
+| mkdir   | mkdir       |   makes a new directory     |
+| Set-Location | cd     |   changes the directory you're in     |
+| New-Item | touch      |   makes a new file     |
+| Move-Item | mv        |   moves an item (renames files) from one directory to another     |
+| Copy-Item | cp        |   copies a file or directory     |
+| Remove-Item | rm      |   removes a file or directory     |
+| notepad.exe | vim     |   opens vim which is a way to view files     |
+
+## Part 3 - Command Line Navigation
+
+My OS is:
+- [x] Windows
+- [] Linux
+- [] Mac
+
+My Command Line Shell is: -bash
+
+### Navigating My OS on the Command Line
+
+1. Full / absolute path to your user's home directory: pwd
+2. Create a directory named `DirA`: mkdir DirA
+3. Create a directory named `Dir B`: mkdir DirB
+4. Go into `DirA`: cd DirA
+5. Go into `Dir B` from `DirA`: cd /home/lorel/DirB
+6. Return to your user's home directory: cd ~
+7. Create a file named `test.txt`: touch test.txt
+8. Move the file named `test.txt` into `DirA`: mv test.txt DirA
+9. Contents of `test.txt`: vim test.txt
+```
+Greak work Lorelai! Keep working hard!
+```
+10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt 
+11. View the contents of `DirA`: ls -l
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: 
+13. Delete / remove both `fodder.txt` AND `Dir B`:
+
+## Citations
+
+To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
