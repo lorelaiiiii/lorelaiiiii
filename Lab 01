@@ -47,8 +47,8 @@ Greak work Lorelai! Keep working hard!
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt copy.txt 
 11. View the contents of `DirA`: ls -l
-12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: 
-13. Delete / remove both `fodder.txt` AND `Dir B`:
+12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: 'cp text.txt fodder.txt' then 'mv fodder.txt /home/lorel/DirB'
+13. Delete / remove both `fodder.txt` AND `Dir B`: first, 'cd ..' then, 're -r DirB'
 
 ## Citations
 
